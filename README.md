@@ -9,6 +9,8 @@ Configure DHCP server on R1 and DHCP Snooping on SW1 and SW2. Verify results.
 
 - <b>Cisco IOS C2900 Software Version 15.1(4)M5<br />
 
+- <b>Cisco IOS C2960 Software Version 15.0(2)SE4<br />
+
 <h2>Diagram </h2>
 <img src="https://i.imgur.com/NQwNt6w.png" height="80%" width="80%" />
 
